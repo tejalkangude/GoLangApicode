@@ -45,7 +45,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/tejalkangude/GoLangApiCode/user"
+	// "github.com/tejalkangude/GoLangApicode/GoLangApiCode/User"
 
 	"github.com/gorilla/mux"
 )
